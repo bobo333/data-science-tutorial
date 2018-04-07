@@ -1,5 +1,5 @@
 # data-science-tutorial
 
-[Online Book](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
+[Online Book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 [Repo](https://github.com/jakevdp/PythonDataScienceHandbook)
